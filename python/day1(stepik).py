@@ -96,3 +96,9 @@
 #     sep='\n'
 # )
 
+
+a = 17 // (23 % 7)
+b = 34 % a * 5 - 29 % 4 * 3
+print(a * b)
+print(a)
+print(b)
